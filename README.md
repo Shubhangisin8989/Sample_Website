@@ -1,12 +1,57 @@
-# React + Vite
+# 🌐 Web Developer Portfolio – Shubhangi Singh
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hi! I'm Shubhangi Singh, a B.Sc. Zoology student (2024–2027) at Delhi University and a self-taught frontend web developer.  
+I’ve been actively learning and building projects using **HTML, CSS, JavaScript, Tailwind CSS**, and **React.js**.
 
-Currently, two official plugins are available:
+This portfolio site reflects my growing skills in responsive design and modern frontend development.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🛠 Skills & Tools
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks:** React.js, Tailwind CSS
+- **Tools:** GitHub, Vite, Netlify
+- **Core Skills:** Responsive Design, Clean UI, Component-Based Architecture
+
+---
+
+## 💻 Projects
+
+### 🖥️ [Portfolio Website](http://shubhangisin8989-samplewebsite.netlify.app/)
+- Built using React.js and Tailwind CSS
+- Sections include About, Projects, Testimonials, and Contact
+- Fully responsive and animated
+- Deployed on Netlify  
+🔗 [View Source Code](https://github.com/Shubhangisin8989/Sample_Website)
+
+
+# 📁 Folder Structure
+Sample_Website/
+├── public/
+├── src/
+│   ├── Components/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+├── README.md
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── vite.config.js
+└── package.json
+
+---
+
+## 🔗 Connect with Me
+
+- [GitHub – Shubhangisin8989](https://github.com/Shubhangisin8989)
+- [LinkedIn – Shubhangi Singh](https://www.linkedin.com/in/shubhangi-singh-16b7b2371/)
+
+---
+
+💡 _Open to remote frontend/web development internships_  
+📩 _Reach out at_ **shubhangi.16086@gmail.com**
+
