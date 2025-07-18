@@ -18,7 +18,7 @@ This portfolio site reflects my growing skills in responsive design and modern f
 
 ## 💻 Projects
 
-### 🖥️ [Portfolio Website](http://shubhangisin8989-samplewebsite.netlify.app/)
+### 🖥️ [Portfolio Website](https://shubhangisin8989-sample-website.netlify.app/)
 - Built using React.js and Tailwind CSS
 - Sections include About, Projects, Testimonials, and Contact
 - Fully responsive and animated
